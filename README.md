@@ -17,26 +17,18 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kashish-21&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish-21&layout=compact" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashish-21&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Connect with Me
 <p>
+  <a href="https://www.linkedin.com/in/kashishrana1805">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="mailto:kashishcoe021@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/kashishrana1805">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
