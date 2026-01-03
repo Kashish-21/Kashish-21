@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Kashish</h1>
+<h3 align="center">B.Tech Computer Science Student | Aspiring Software Developer</h3>
 
-<!--
-**Kashish-21/Kashish-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=F75C7E&lines=Python+Developer;Final+Year+CS+Student;Building+Real+World+Projects" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🎓 Final Year B.Tech Computer Science student  
+- 🐍 Python & web development  
+- 📊 Built a Streamlit-based Student Management System  
+- 🚀 Learning software development fundamentals  
+
+---
+
+## 🛠 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,django,streamlit,sqlite,html,css,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+<a href="https://www.linkedin.com/in/kashishrana1805">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+</a>
