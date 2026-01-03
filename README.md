@@ -1,13 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Kashish</h1>
 <h3 align="center">B.Tech Computer Science Student | Aspiring Software Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=F75C7E&lines=Python+Developer;Final+Year+CS+Student;Building+Real+World+Projects" />
-</p>
-
 ---
 
-## 👩‍💻 About Me
+## 🙋‍♀️ About Me
 - 🎓 Final Year B.Tech Computer Science student  
 - 🐍 Python & web development  
 - 📊 Built a Streamlit-based Student Management System  
@@ -16,7 +12,7 @@
 ---
 
 ## 🛠 Languages & Tools
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,flask,django,streamlit,sqlite,html,css,git,github" />
 </p>
 
@@ -41,6 +37,8 @@
 ---
 
 ## 🤝 Connect with Me
-<a href="https://www.linkedin.com/in/kashishrana1805">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/kashishrana1805">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+</p>
