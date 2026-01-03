@@ -17,21 +17,20 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kashish-21 &show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kashish-21&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish-21 &layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish-21&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashish-21 &theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashish-21&theme=tokyonight" />
 </p>
 
 ---
